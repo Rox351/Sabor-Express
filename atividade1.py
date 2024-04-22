@@ -1,0 +1,6 @@
+print('Python na Escola de Programação da Alura')
+nome = input('Digite seu nome:')
+idade = input('Digite sua idade:')
+print(f'Meu nome é {nome} e tenho {idade} anos')
+print('A','L','U','R','A',sep='\n')
+print('L','E','O',sep = '\n')
